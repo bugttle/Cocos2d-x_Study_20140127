@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="jp.blogspot.uqtimes.samples.ccshader"
+      package="jp.blogspot.uqtimes.samples.cc3d"
       android:versionCode="1"
       android:versionName="1.0"
       android:installLocation="auto">
