@@ -14,4 +14,13 @@ xcuserdata
 DerivedData
 *.xcuserstate
 
-
+# Android
+bin/debug/
+local.properties
+proj.android/assets/
+proj.android/bin/
+proj.android/gen/
+proj.android/libs/
+proj.android/obj/
+cocos2d/cocos/platform/android/java/bin/
+cocos2d/cocos/platform/android/java/gen/

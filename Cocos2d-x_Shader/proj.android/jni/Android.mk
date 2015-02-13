@@ -12,7 +12,16 @@ LOCAL_MODULE_FILENAME := libcocos2dcpp
 
 LOCAL_SRC_FILES := hellocpp/main.cpp \
                    ../../Classes/AppDelegate.cpp \
-                   ../../Classes/HelloWorldScene.cpp
+                   ../../Classes/SampleBaseScene.cpp \
+                   ../../Classes/SampleBlurScene.cpp \
+                   ../../Classes/SampleCCSpriteFragRedScene.cpp \
+                   ../../Classes/SampleCCSpriteOriginalScene.cpp \
+                   ../../Classes/SampleCCSpriteVertRedScene.cpp \
+                   ../../Classes/SampleFlagScene.cpp \
+                   ../../Classes/SampleGLSLSandBox1Scene.cpp \
+                   ../../Classes/SampleGrayScaleScene.cpp \
+                   ../../Classes/SampleNoiseScene.cpp \
+                   ../../Classes/SampleWaveScene.cpp
 
 LOCAL_C_INCLUDES := $(LOCAL_PATH)/../../Classes
 
